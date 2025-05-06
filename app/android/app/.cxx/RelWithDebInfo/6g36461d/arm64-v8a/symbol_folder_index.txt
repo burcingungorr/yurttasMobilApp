@@ -1,0 +1,1 @@
+C:\Users\burci\OneDrive\Desktop\reactNative\yurttas\app\android\app\build\intermediates\cxx\RelWithDebInfo\6g36461d\obj\arm64-v8a
